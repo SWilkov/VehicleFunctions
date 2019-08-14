@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "VehicleFunctions": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "MYSQL_CONN_STR": "Server=localhost; Database=vehicledata; Uid=root; Pwd=secret; port=3306;",
+        "SENDGRID_API_KEY": "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",
+        "SENDGRID_FROM_EMAIL": "info@motlookup.com",
+        "SENDGRID_FROM_NAME": "MotLookup",
+        "SUBJECT": "Weekly lookup stats"
+      }
+    }
+  }
+}
